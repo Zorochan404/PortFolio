@@ -47,7 +47,7 @@ A modern, interactive portfolio website built with Next.js, featuring stunning 3
 
 ## 🚀 Live Demo
 
-**🌐 [View Live Portfolio](https://your-portfolio-url.com)**
+**🌐 [View Live Portfolio]([https://jyotirmxy.vercel.app/])**
 
 ## 📱 Screenshots
 
