@@ -114,7 +114,7 @@ export default function Projects() {
     const [hoveredProject, setHoveredProject] = useState<number | null>(null);
 
     return (
-        <div className="flex flex-col items-start justify-start py-24 lg:pt-36 mx-2 lg:mx-0">
+        <div className="flex flex-col items-start justify-start py-24 lg:pt-36 mx-4 lg:mx-0">
             <div className="w-full flex flex-col justify-start px-1 mb-6">
                 <h2 className="text-xl sm:text-xl font-medium">Projects ~</h2>
             </div>
