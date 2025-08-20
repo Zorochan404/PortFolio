@@ -33,7 +33,7 @@ export default function About() {
 
 
     return (
-        <div className="flex flex-col items-start justify-start pt-24 lg:pt-36 mx-2 lg:mx-0">
+        <div className="flex flex-col items-start justify-start pt-24 lg:pt-36 mx-4 lg:mx-0">
             <div className="text-2xl font-bold">About~</div>
             <br />
             <div className="text-md">
