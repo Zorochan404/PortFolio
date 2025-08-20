@@ -67,7 +67,7 @@ export default function Guestbook() {
     };
 
     return (
-        <div className="min-h-screen py-24 lg:pt-36 flex flex-col items-center justify-cente mx-2 lg:mx-0">
+        <div className="min-h-screen py-24 lg:pt-36 flex flex-col items-center justify-cente mx-4 lg:mx-0">
             <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
