@@ -34,7 +34,7 @@ export default function Home() {
       <div className="flex flex-col lg:flex-row items-start justify-between w-full px-4 lg:px-0">
         {/* Left Side - Text Content */}
         <div className="py-24 lg:py-36">
-          <div className="text-2xl">こんにちは~</div>
+          <div className="text-xl">こんにちは~</div>
           <br />
           <div className=" text-md">
             <span>I'm Jyotirmoy, a Full Stack Engineer who turns </span>
