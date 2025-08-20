@@ -74,13 +74,13 @@ export default function Guestbook() {
                 transition={{ duration: 0.5 }}
                 className="text-center mb-12"
             >
-                <h1 className="text-xl font-bold text-white mb-4 flex flex-col items-start justify-center">
+                <div className="text-xl font-bold text-white mb-4 flex flex-col items-start justify-center">
                     Guestbook
-                </h1>
-                <p className="text-md text-zinc-300">
+                </div>
+                <div className="text-md text-zinc-300">
                     Leave a message, share your thoughts, or just say hello!
                     This is where visitors can connect and share their experiences.
-                </p>
+                </div>
             </motion.div>
 
             <div className="space-y-12 w-full">
