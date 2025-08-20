@@ -36,7 +36,7 @@ export default function Home() {
         <div className="py-24 lg:py-36">
           <div className="text-2xl">こんにちは~</div>
           <br />
-          <div className=" text-lg">
+          <div className=" text-md">
             <span>I'm Jyotirmoy, a Full Stack Engineer who turns </span>
             <span className="text-[#ea698b] "> Coffee</span>
             <span> into</span>
